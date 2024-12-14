@@ -63,3 +63,5 @@ function numberGenerator(){
 }
 var number=numberGenerator()
 console.log(number())
+
+
