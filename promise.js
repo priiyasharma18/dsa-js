@@ -39,4 +39,5 @@ function trash(callback){
             console.log("all the tasks are comleted ")
         })
     })
- })
+ })  
+ //this is promise
